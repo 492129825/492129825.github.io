@@ -1,9 +1,9 @@
 title: 杨敏锐的技术笔记
 description: My Personal Blog
 author: 杨敏锐
-logo: /hcz-jekyll-blog/static/img/avatar.png
+#logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/492129825
-about: Freelance developer
+about: Novice programmer
 
 baseurl: ""
 url: ""
