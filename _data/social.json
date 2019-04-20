@@ -14,5 +14,13 @@
   {
     "icon": "fa-stack-exchange",
     "link": ""
-  }
+  },
+  {
+    "icon": "fa-QQ",
+    "link": ""
+  },
+  {
+    "icon": "fa-wechat",
+    "link": ""
+  },
 ]
